@@ -1,0 +1,1 @@
+main.c -o raycaster -lm $(pkg-config sdl3 --cflags --libs) && ./raycaster
